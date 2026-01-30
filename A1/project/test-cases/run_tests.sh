@@ -3,7 +3,7 @@
 # ================= CONFIGURATION =================
 # Path to your shell executable (adjust if needed)
 # This assumes the script is in 'test-cases' and mysh is in 'project/src'
-SHELL_PATH="../../A1/project/src/mysh"
+SHELL_PATH="../src/mysh"
 
 # Directory containing the tests (current directory by default)
 TEST_DIR="."
